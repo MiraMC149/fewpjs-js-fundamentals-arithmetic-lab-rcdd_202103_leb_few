@@ -9,5 +9,4 @@ let random = Math.random() * 10
 
 let mod = 20 % 8;
 
-let max = Math.max(1, 2, 20); 
-
+let max = Math.max(1, 2, 20);
